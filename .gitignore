@@ -1,0 +1,4 @@
+logs/*.txt
+*.save
+server_health_check_backup.sh
+
